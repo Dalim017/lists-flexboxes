@@ -9,3 +9,27 @@ ol{
     list-style-type: lower-alpha;
     
 }
+.mainbox{
+    display: flex;
+}
+#dalim{
+    color: aliceblue;
+    background-color: rgb(17, 0, 255);
+    margin: 10px;
+    padding-left: 25px;
+}
+#rahman{
+    color: white;
+    background-color: red;
+    margin: 10px;
+}
+#muhammad{
+    color: rgb(57, 14, 230);
+    background-color: yellow;
+    margin: 10px;;
+}
+#shohag{
+    color: white;
+    background-color: red;
+    margin: 10px;
+}
