@@ -6,5 +6,6 @@ body{
     color: brown;
 }
 ol{
+    list-style-type: lower-alpha;
     
 }
